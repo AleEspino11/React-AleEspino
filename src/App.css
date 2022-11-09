@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.Nav {
+ width: 100%;
+ height: 60px;
+ padding: 5px;
+ background-color: #00ffcc;
+ color: aliceblue;
+}
+.Container{
+ margin: none;
+ color: aliceblue;
+}
+
+.divBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+}
+
+.Btn {
+  border: none;
+  background-color:transparent;
+}
+.font{
+  height: 25px;
+  
+}
+
